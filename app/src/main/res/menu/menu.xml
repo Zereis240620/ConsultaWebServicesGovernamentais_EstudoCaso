@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/INDSOCIOECONOMICO"
+        android:title="Indicadores socioeconômicos BR" />
+    <item
+        android:id="@+id/NOMEBR"
+        android:title="Nomes no BR" />
+</menu>

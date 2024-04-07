@@ -1,0 +1,2 @@
+rootProject.name = "Consulta WebServices Governamentais"
+include ':app'

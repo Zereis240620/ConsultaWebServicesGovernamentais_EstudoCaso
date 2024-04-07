@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Consulta WebServices IBGE</string>
+    <string name="textNomeText">ex: João, Maria, Jose</string>
+    <string name="textPaisText">ex: BR, US, PT...</string>
+</resources>
